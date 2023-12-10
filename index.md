@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aimée Concannon
+Creative generalist in a world of specialists.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -26,12 +26,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
+`2018 – 2019`
+__Trinity College, Dublin__
+MAI Mechanical & Manufacturing Engineering 
+Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved first class honors for exam results, and a 2:1 grade for delivery of thesis. 
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
 
 - Sizar
 
