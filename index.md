@@ -40,41 +40,14 @@ Trinity College, Dublin
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
 
-## Awards
-`2019`
-__IEEE ITherm 2019 Heat Sink Design Challenge__
-| Project Manager & Finalist
-
-Project manager for a group of 35 Engineering Masters students taking part in an international design
-competition, held in Las Vegas. Worked with each team to establish clear deliverables and monitored
-progress by organizing weekly meetings. Created WBS's and performed critical path analysis for the
-project's duration. Acted as a liaison between competition organizers and manufacturing, design and
-experiment teams. 
-
-* Our model was completed with a week to spare, inside budget, and was one of the 8
-designs chosen from hundreds of entries for the final round in Las Vegas, Nevada.
-
-`2019`
-Huawei
-Technical Intern
-The Huawei Seeds for the Future program is an internationally recognised internship scheme, which seeks
-to encourage future leaders in business, ICT and foreign relations. As part of the program I spent time in
-Beijing, Shenzhen and Hong Kong, living with a team of 9 other candidates and receiving courses in
-mandarin, ICT, and Chinese business culture.
-
-Accenture
-Blockchain Engineer | 2019
-Selected to participate in the Accenture Tech Visionaries Experience 2019. Developed and implemented a blockchain solution to a client problem using JS and Hyperledger Fabric.
-1st Place in the Visionaries Team Pitching Competition for our concept ‘FoodZap’.
-
-
 ## Experience
 `Feb 2023 - Nov 2023`
 ### Peblo
 **Head of Customer Success**
 - role description
 
-- impact 
+* Introduced bank account penny testing, to the onboarding process, reducing failure by X%.
+* 
 
 `Nov 2019 - Nov 2022`
 ### Stripe
@@ -101,10 +74,30 @@ _Company Building_
 
 Assumed the role of Dublin Comms officer from January 2020—21. Handled internal migration away from Campaigner. Engaged in company building by spearheading a revamp of the Dublin Digest weekly newsletter. Put together said newsletter at a weekly cadence.
 
-### Patents
+## Awards
+`2022`
+Stripe User Champion
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+__IEEE ITherm 2019 Heat Sink Design Challenge__
+| Project Manager & Finalist
+
+Project manager for a group of 35 Engineering Masters students taking part in an international design
+competition, held in Las Vegas. Worked with each team to establish clear deliverables and monitored
+progress by organizing weekly meetings. Created WBS's and performed critical path analysis for the
+project's duration. Acted as a liaison between competition organizers and manufacturing, design and
+experiment teams. 
+
+* Our model was completed with a week to spare, inside budget, and was one of the 8
+designs chosen from hundreds of entries for the final round in Las Vegas, Nevada.
+
+`2019`
+__Huawei Seeds for the Future__ Technical Intern
+Was selected as one of <a href="https://www.linkedin.com/posts/aimeeconcannon_huawei-huaweitechnologies-seedsforthefuture-activity-6565322127329763328-MowE?utm_source=share&utm_medium=member_desktop">9 Irish students</a> to participate in the The Huawei Seeds for the Future program. This internationally recognised internship scheme seeks to encourage future leaders in business, ICT and foreign relations. As part of the program I spent time in Beijing, Shenzhen and Hong Kong, visiting their respecitve Irish embassies and receiving courses in mandarin, ICT, and Chinese business culture.
+
+`2019`
+Accenture
+Selected to participate in the Accenture Tech Visionaries Experience 2019. Developed and implemented a blockchain solution to a client problem using JS and Hyperledger Fabric. 1st Place in the Visionaries Team Pitching Competition for our concept ‘FoodZap’.
 
 
 ## Interests
