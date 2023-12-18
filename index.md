@@ -28,11 +28,13 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 __Trinity College, Dublin__
 `2018 – 2019`
-MAI Mechanical & Manufacturing Engineering 
+MAI Mechanical & Manufacturing Engineering
+
 Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved first class honors for exam results, and a 2:1 grade for delivery of thesis. 
 
 `2014 – 2018`
 BAI Mechanical & Manufacturing Engineering
+
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer
 Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
