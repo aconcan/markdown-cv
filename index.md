@@ -108,12 +108,9 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 
 ## Interests
-Running — Doing the Paris Half marathon this March. Tech. Cooking. Longform interviews. Early-era Simpsons.  
+<a href="https://www.linkedin.com/in/aimeeconcannon/">Public speaking</a>. Tech. Cooking. Longform interviews. Early-era Simpsons.  
 
 
-
-<!-- ### Footer
-
-Last updated: December 2023 -->
+<!-- ### Footer Last updated: December 2023 -->
 
 
