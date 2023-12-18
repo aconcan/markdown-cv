@@ -16,20 +16,18 @@ Creative generalist in a world of specialists.
 Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a>. Training for 🏃‍♀️ <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
 
 ### Key Competencies
-Stakeholder and relationship management. Problem solving. Prioritization. Working in ambiguity. Workflow optimization. Reactive, non-prescriptive environments. Constantly curious. 
+Stakeholder and relationship management, problem solving, prioritization, working in ambiguity, workflow optimization, reactive, non-prescriptive environments, constant curiousity. 
 
 ## Education
 __MAI Mechanical & Manufacturing Engineering__
 `2018 – 2019`
-### Trinity College, Dublin
-
 Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved First Class Honors for exam results, and a 2:1 grade for delivery of thesis. 
+### Trinity College, Dublin
 
 __BAI Mechanical & Manufacturing Engineering__
 `2014 – 2018`
-### Trinity College, Dublin
-
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
+### Trinity College, Dublin
 
 
 ## Experience
