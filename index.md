@@ -50,7 +50,7 @@ Stakeholder and relationship management. Pricing renegotiation. Workflow optimiz
 * Introduced bank account penny testing, to the onboarding process, reducing initial onboarding failure by X%.
 * Led pricing renegotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
 * Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve.
-> Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled both partners and external company image. Reactive, crisis control, working in ambiguity, disagree and commit. 
+'-' Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled both partners and external company image. Reactive, crisis control, working in ambiguity, disagree and commit. 
 
 
 `Nov 2019 - Nov 2022`
