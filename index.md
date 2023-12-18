@@ -30,13 +30,12 @@ __BAI Mechanical & Manufacturing Engineering__
 
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
-
 ## Experience
 ### Peblo
 `Feb 2023 - Nov 2023`
 **Head of Customer Success**
 
-* Compiled a document of quick win revenue increases. Document was adopted by leadership and used when remodelling sales process, product, and pricing.
+* Compiled a document of quick-win revenue increases in my first month of tenure. This document was adopted by leadership and used when remodelling sales process, product, and pricing.
 * Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
 * Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve. Allowed us to focus support on more valuable users, and reduce our book of partners to only those who were in line with our unit economics. 
 * Introduced bank account penny testing to the onboarding process, reducing initial onboarding failure by 40%.
@@ -49,31 +48,31 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 
 As a specialist, I balanced solving the most complex and technical questions for our users with managing projects, and developing systems that would allow Stripe to scale support across new countries and products.
 
-_Core_
+Core
 
 * Was on average 140% to productivity target each week during 2020, and 135% to target
 during 2021.
+* Consistently had the lowest average handle time of all EMEA agents, and top 3 lowest of all agents globally, (a metric to measure efficiency and expertise).
 * As the sole Specialist in EMEA running the thrice weekly techincal recruitment interviews, I trained in 4 new hires remotely, all achieving well
 beyond their targets by end of spin-up period.
 * Created a SQL Education course for Operations specialists with non-technical backgrounds. #3 most visited internal
 Operations document during 2021.
 
-_Impact_
+Impact
 
 * Identified opportunities to outsource support cases to external vendors. Identified trends that lead to the reduction of ~20 cases per week, resulting in $50k cost savings per year.
 * Improved tooling for one of our highest volume support requests; SEPA DD & ACH limit increase requests. This greatly reduced escalation rate, and significalty reduced cost to serve for an average support ticket.
 * As EMEA Ops lead for the launch of Stripe Identity, I built out the operational resources required for launch.
 
-_Company Building_
+Company Building
+
 * Assumed the role of Dublin Comms officer from January 2020—22, as the Dublin office grew from 400 to ~2000 people. Fostered community by resurrecting the weekly 'Dublin Digest' and 'New Faces' newsletters. 
 * Lead EMEA Pride 2022 event organization.
 * Organized Dublin Ops team events on a biannual basis. 
 
 ## Awards
 `2022`
-Stripe User Champion
-
-Top 10% highest productivity for Q3 and Q4.
+**Stripe User Champion** Top 10% highest global productivity for Q3 and Q4.
 
 `2019`
 __IEEE ITherm 2019 Heat Sink Design Challenge__
