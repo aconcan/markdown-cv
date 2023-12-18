@@ -15,8 +15,8 @@ Creative generalist in a world of specialists.
 ## Currently
 Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a>. Training for 🏃‍♀️ <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
 
-## Key Competencies
-Reactive, crisis control, working in ambiguity. Non-prescriptive. 
+### Key Competencies
+Stakeholder and relationship management. Problem solving. Prioritization. Working in ambiguity. Workflow optimization. Reactive, non-prescriptive environments. Constantly curious. 
 
 ## Education
 __MAI Mechanical & Manufacturing Engineering__
@@ -36,8 +36,6 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 `Feb 2023 - Nov 2023`
 ### Peblo
 **Head of Customer Success**
-
-Stakeholder and relationship management. Pricing re-negotiation. Workflow optimization. 
 
 * Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
 * Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve. Allowed us to focus support on more valuable users, and reduce our book of partners to only those who were in line with our unit economics. 
