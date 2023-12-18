@@ -44,8 +44,8 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 * Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled comms both with partners and and internals. 
 
 
-`Nov 2019 - Nov 2022`
 ### Stripe
+`Nov 2019 - Nov 2022`
 **SMB Operations Specialist**
 
 As a specialist, I balanced solving the most complex and technical questions for our users with managing projects, and developing systems that would allow Stripe to scale support across new countries and products.
