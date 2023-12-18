@@ -26,28 +26,41 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
-`2018 – 2019`
 __Trinity College, Dublin__
+`2018 – 2019`
 MAI Mechanical & Manufacturing Engineering 
 Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved first class honors for exam results, and a 2:1 grade for delivery of thesis. 
 
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2014 – 2018`
+BAI Mechanical & Manufacturing Engineering
+Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer
+Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
 
 ## Awards
+`2019`
+IEEE ITherm 2019 Heat Sink Design Challenge
+Project Manager & Finalist
+Project manager for a group of 35 Engineering Masters students taking part in an international design
+competition, held in Las Vegas. Worked with each team to establish clear deliverables and monitored
+progress by organizing weekly meetings. Created WBS's and performed critical path analysis for the
+project's duration. Acted as a liaison between competition organizers and manufacturing, design and
+experiment teams. 
+* Our model was completed with a week to spare, inside budget, and was one of the 8
+designs chosen from hundreds of entries for the final round in Las Vegas, Nevada.
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+Huawei
+Technical Intern
+The Huawei Seeds for the Future program is an internationally recognised internship scheme, which seeks
+to encourage future leaders in business, ICT and foreign relations. As part of the program I spent time in
+Beijing, Shenzhen and Hong Kong, living with a team of 9 other candidates and receiving courses in
+mandarin, ICT, and Chinese business culture.
 
-Associate, *French Academy of Science*, Paris, France
-
+Accenture
+Blockchain Engineer | 2019
+Selected to participate in the Accenture Tech Visionaries Experience 2019. Developed and implemented a blockchain solution to a client problem using JS and Hyperledger Fabric.
+1st Place in the Visionaries Team Pitching Competition for our concept ‘FoodZap’.
 
 
 ## Experience
