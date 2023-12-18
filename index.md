@@ -48,7 +48,7 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 
 As a specialist, I balanced solving the most complex and technical questions for our users with managing projects, and developing systems that would allow Stripe to scale support across new countries and products.
 
-Core
+_Core_
 
 * Was on average 140% to productivity target each week during 2020, and 135% to target
 during 2021.
@@ -58,13 +58,13 @@ beyond their targets by end of spin-up period.
 * Created a SQL Education course for Operations specialists with non-technical backgrounds. #3 most visited internal
 Operations document during 2021.
 
-Impact
+_Impact_
 
 * Identified opportunities to outsource support cases to external vendors. Identified trends that lead to the reduction of ~20 cases per week, resulting in $50k cost savings per year.
 * Improved tooling for one of our highest volume support requests; SEPA DD & ACH limit increase requests. This greatly reduced escalation rate, and significalty reduced cost to serve for an average support ticket.
 * As EMEA Ops lead for the launch of Stripe Identity, I built out the operational resources required for launch.
 
-Company Building
+_Company Building_
 
 * Assumed the role of Dublin Comms officer from January 2020—22, as the Dublin office grew from 400 to ~2000 people. Fostered community by resurrecting the weekly 'Dublin Digest' and 'New Faces' newsletters. 
 * Lead EMEA Pride 2022 event organization.
@@ -84,6 +84,7 @@ progress by organizing weekly meetings. Created WBS's and performed critical pat
 project's duration. Acted as a liaison between competition organizers and manufacturing, design and
 experiment teams. 
 
+
 * Our model was completed with a week to spare, inside budget, and was one of the 8
 designs chosen from hundreds of entries for the final round in Las Vegas, Nevada.
 
@@ -91,6 +92,7 @@ designs chosen from hundreds of entries for the final round in Las Vegas, Nevada
 __Huawei Seeds for the Future__ Technical Intern
 
 Was selected as one of <a href="https://www.linkedin.com/posts/aimeeconcannon_huawei-huaweitechnologies-seedsforthefuture-activity-6565322127329763328-MowE?utm_source=share&utm_medium=member_desktop">9 Irish students</a> to participate in the The Huawei Seeds for the Future program. This internationally recognised internship scheme seeks to encourage future leaders in business, ICT and foreign relations. 
+
 
 * As part of the program I spent time in Beijing, Shenzhen and Hong Kong, visiting their respecitve Irish embassies and receiving courses in mandarin, ICT, and Chinese business culture.
 
