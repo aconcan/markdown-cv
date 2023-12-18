@@ -64,8 +64,9 @@ _Impact_
 * As EMEA Ops lead for the launch of Stripe Identity, I built out the operational resources required for launch.
 
 _Company Building_
-
-Assumed the role of Dublin Comms officer from January 2020—21. Handled internal migration away from Campaigner. Engaged in company building by spearheading a revamp of the Dublin Digest weekly newsletter. Put together said newsletter at a weekly cadence.
+* Assumed the role of Dublin Comms officer from January 2020—22, as the Dublin office grew from 400 to ~2000 people. Fostered community by resurrecting the weekly 'Dublin Digest' and 'New Faces' newsletters. 
+* Lead EMEA Pride 2022 event organization.
+* Organized Dublin Ops team events on a biannual basis. 
 
 ## Awards
 `2022`
