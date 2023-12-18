@@ -14,7 +14,7 @@ Creative generalist in a world of specialists.
 
 ## Currently
 
-Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a> Training for the <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
+Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a>. Training for the <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
 
 ### Specialized in
 
@@ -37,19 +37,20 @@ __BAI Mechanical & Manufacturing Engineering__
 `2014 – 2018`
 Trinity College, Dublin
 
-Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer
-Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
+Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
 
 ## Awards
 `2019`
-IEEE ITherm 2019 Heat Sink Design Challenge
-Project Manager & Finalist
+__IEEE ITherm 2019 Heat Sink Design Challenge__
+| Project Manager & Finalist
+
 Project manager for a group of 35 Engineering Masters students taking part in an international design
 competition, held in Las Vegas. Worked with each team to establish clear deliverables and monitored
 progress by organizing weekly meetings. Created WBS's and performed critical path analysis for the
 project's duration. Acted as a liaison between competition organizers and manufacturing, design and
 experiment teams. 
+
 * Our model was completed with a week to spare, inside budget, and was one of the 8
 designs chosen from hundreds of entries for the final round in Las Vegas, Nevada.
 
