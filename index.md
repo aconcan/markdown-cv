@@ -29,13 +29,13 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 __MAI Mechanical & Manufacturing Engineering__
 `2018 – 2019`
-Trinity College, Dublin
+### Trinity College, Dublin
 
 Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved first class honors for exam results, and a 2:1 grade for delivery of thesis. 
 
 __BAI Mechanical & Manufacturing Engineering__
 `2014 – 2018`
-Trinity College, Dublin
+### Trinity College, Dublin
 
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
 
@@ -50,6 +50,8 @@ Stakeholder and relationship management. Pricing renegotiation. Workflow optimiz
 * Introduced bank account penny testing, to the onboarding process, reducing initial onboarding failure by X%.
 * Led pricing renegotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
 * Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve.
+> Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled both partners and external company image. Reactive, crisis control, working in ambiguity, disagree and commit. 
+
 
 `Nov 2019 - Nov 2022`
 ### Stripe
