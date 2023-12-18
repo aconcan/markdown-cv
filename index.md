@@ -98,10 +98,6 @@ Was selected as one of <a href="https://www.linkedin.com/posts/aimeeconcannon_hu
 
 * As part of the program I spent time in Beijing, Shenzhen and Hong Kong, visiting their respecitve Irish embassies and receiving courses in mandarin, ICT, and Chinese business culture.
 
-`2019`
-Accenture
-Selected to participate in the Accenture Tech Visionaries Experience 2019. Developed and implemented a blockchain solution to a client problem using JS and Hyperledger Fabric. 1st Place in the Visionaries Team Pitching Competition for our concept ‘FoodZap’.
-
 
 ## Interests
 <a href="https://www.seanchoiche.com/stayintouch">Public speaking</a>. 8 hour recipes. The Economist, Lex Friedman, Hard Fork. Early-era Simpsons. Womens soccer.
