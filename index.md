@@ -78,6 +78,8 @@ Assumed the role of Dublin Comms officer from January 2020—21. Handled interna
 `2022`
 Stripe User Champion
 
+Top 10% highest productivity for Q3 and Q4.
+
 `2019`
 __IEEE ITherm 2019 Heat Sink Design Challenge__
 | Project Manager & Finalist
