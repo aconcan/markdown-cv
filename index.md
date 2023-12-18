@@ -44,10 +44,12 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 `Feb 2023 - Nov 2023`
 ### Peblo
 **Head of Customer Success**
-- role description
 
-* Introduced bank account penny testing, to the onboarding process, reducing failure by X%.
-* 
+Stakeholder and relationship management. Pricing renegotiation. Workflow optimization. 
+
+* Introduced bank account penny testing, to the onboarding process, reducing initial onboarding failure by X%.
+* Led pricing renegotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
+* Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve.
 
 `Nov 2019 - Nov 2022`
 ### Stripe
