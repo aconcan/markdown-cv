@@ -40,7 +40,7 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 * Wrote a script to pull daily inbound parter comms data from the <a href="https://dev.frontapp.com/docs/welcome">Front API</a>. Used this data to develop a partner scoring index that captured their cost to serve. Allowed us to focus support on more valuable users, and reduce our book of partners to only those who were in line with our unit economics. 
 * Introduced bank account penny testing to the onboarding process, reducing initial onboarding failure by 40%.
 * Stepped in on marketing and brand image. Managed both the Instagram and TikTok pages. Attended the IMS London and BCreator awards in a Sales capacity. 
-* Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled comms both with partners and and internals. 
+* Handled external comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. 
 
 ### Stripe
 `Nov 2019 - Nov 2022`
