@@ -34,6 +34,7 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 ### Peblo
 `Feb 2023 - Nov 2023`
 **Head of Customer Success**
+As Head of Customer Success for a small financing startup, I made an impact across the org much more broadly than just the core responsibilities of my role. As well as managing relationships with stakeholders, streamlining the onboarding process, and managing all CS and support projects, I:
 
 * Compiled a document of quick-win revenue increases in my first month of tenure. This document was adopted by leadership and used when remodelling sales process, product, and pricing.
 * Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
