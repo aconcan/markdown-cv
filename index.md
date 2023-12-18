@@ -19,22 +19,22 @@ Buiding 🔨<a href="https://github.com/aconcan/campaigner"> Campaigner</a>. Ren
 Stakeholder and relationship management. Critical thinking. Problem solving. Prioritization. Workflow optimization. Working in ambiguity. Reactive, non-prescriptive environments. Constant curiousity. 
 
 ## Education
-__MAI Mechanical & Manufacturing Engineering__
 `2018 – 2019`
+### Trinity College, Dublin
+__MAI Mechanical & Manufacturing Engineering__
 
 Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved First Class Honors for exam results, and a 2:1 grade for delivery of thesis. 
-### Trinity College, Dublin
 
-__BAI Mechanical & Manufacturing Engineering__
 `2014 – 2018`
+### Trinity College, Dublin
+__BAI Mechanical & Manufacturing Engineering__
 
 Relevant modules: Project management, C++, Data Acquisition, Computer Engineering I, Computer Engineering II, Engineering Design. Achieved a high 2:1 grade. Was elected ENTS officer for TCD Eng Soc.
-### Trinity College, Dublin
 
 
 ## Experience
-`Feb 2023 - Nov 2023`
 ### Peblo
+`Feb 2023 - Nov 2023`
 **Head of Customer Success**
 
 * Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
