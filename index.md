@@ -37,6 +37,7 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 
 As Head of Customer Success for a small financing startup, I made an impact across the org much more broadly than just the core responsibilities of my role. As well as managing relationships with stakeholders, streamlining the onboarding process, and monitoring and improving metrics such as activation rate and churn, I:
 
+
 * Compiled a document of quick-win opportunities to increase revenue in my first month of tenure. This document was adopted by leadership and used when remodelling sales process, product, and pricing.
 * Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
 * Wrote a script to pull daily inbound parter comms data from the <a href="https://dev.frontapp.com/docs/welcome">Front API</a>. Used this data to develop a partner scoring index that captured their cost to serve. Allowed us to focus support on more valuable users, and reduce our book of partners to only those who were in line with our unit economics. 
