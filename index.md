@@ -13,18 +13,10 @@ Creative generalist in a world of specialists.
 
 
 ## Currently
+Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a>. Training for 🏃‍♀️ <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
 
-Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a>. Training for the <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Key Competencies
+Reactive, crisis control, working in ambiguity. Non-prescriptive. 
 
 ## Education
 __MAI Mechanical & Manufacturing Engineering__
@@ -45,12 +37,13 @@ Relevant modules: Project management, C++, Data Acquisition, Computer Engineerin
 ### Peblo
 **Head of Customer Success**
 
-Stakeholder and relationship management. Pricing renegotiation. Workflow optimization. 
+Stakeholder and relationship management. Pricing re-negotiation. Workflow optimization. 
 
-* Introduced bank account penny testing, to the onboarding process, reducing initial onboarding failure by X%.
-* Led pricing renegotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
-* Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve.
-'-' Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled both partners and external company image. Reactive, crisis control, working in ambiguity, disagree and commit. 
+* Led pricing re-negotiations with all partners. Succeeded in increasing the average partner fee from 1.1% to 3.5%.
+* Wrote a script to pull daily inbound parter comms data from the Front API. Used this data to develop a partner scoring index that captured their cost to serve. Allowed us to focus support on more valuable users, and reduce our book of partners to only those who were in line with our unit economics. 
+* Introduced bank account penny testing to the onboarding process, reducing initial onboarding failure by 40%.
+* Stepped in on marketing and brand image. Managed both the Instagram and TikTok pages. Attended the IMS London and BCreator awards in a Sales capacity. 
+* Handled comms for Peblo’s incoming CEO in the wake of a sudden change of leadership. Handled comms both with partners and and internals. 
 
 
 `Nov 2019 - Nov 2022`
