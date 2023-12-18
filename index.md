@@ -31,7 +31,7 @@ __MAI Mechanical & Manufacturing Engineering__
 `2018 – 2019`
 ### Trinity College, Dublin
 
-Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved first class honors for exam results, and a 2:1 grade for delivery of thesis. 
+Thesis based on novel cardiac regeneration therapies. Designed a synthetic polymer electromechanical bio-actuator to replicate myocardial contraction. Achieved First Class Honors for exam results, and a 2:1 grade for delivery of thesis. 
 
 __BAI Mechanical & Manufacturing Engineering__
 `2014 – 2018`
