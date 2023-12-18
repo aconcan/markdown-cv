@@ -14,7 +14,7 @@ Creative generalist in a world of specialists.
 
 ## Currently
 
-Standing on the shoulders of giants
+Buiding <a href="https://github.com/aconcan/campaigner">Campaigner</a>. Renovating <a href="https://i2-prod.dublinlive.ie/incoming/article21906157.ece/ALTERNATES/s615b/0_sally-1.jpg"> 🏡 </a> Training for the <a href="https://www.harmoniemutuellesemideparis.com/en/">Paris Half</a>.
 
 ### Specialized in
 
