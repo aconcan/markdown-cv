@@ -101,7 +101,7 @@ Selected to participate in the Accenture Tech Visionaries Experience 2019. Devel
 
 
 ## Interests
-<a href="https://www.seanchoiche.com/stayintouch">Public speaking</a>. Tech. Cooking. Longform interviews. Early-era Simpsons.  
+<a href="https://www.seanchoiche.com/stayintouch">Public speaking</a>. 8 hour recipes. The Economist, Lex Friedman, Hard Fork. Early-era Simpsons. Womens soccer.
 
 
 <!-- ### Footer Last updated: December 2023 -->
