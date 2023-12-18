@@ -78,7 +78,7 @@ _Company Building_
 
 `2019`
 __IEEE ITherm 2019 Heat Sink Design Challenge__
-| Project Manager & Finalist
+Project Manager & Finalist
 
 Project manager for a group of 35 Engineering Masters students taking part in an international design
 competition, held in Las Vegas. Worked with each team to establish clear deliverables and monitored
