@@ -95,7 +95,10 @@ designs chosen from hundreds of entries for the final round in Las Vegas, Nevada
 
 `2019`
 __Huawei Seeds for the Future__ Technical Intern
-Was selected as one of <a href="https://www.linkedin.com/posts/aimeeconcannon_huawei-huaweitechnologies-seedsforthefuture-activity-6565322127329763328-MowE?utm_source=share&utm_medium=member_desktop">9 Irish students</a> to participate in the The Huawei Seeds for the Future program. This internationally recognised internship scheme seeks to encourage future leaders in business, ICT and foreign relations. As part of the program I spent time in Beijing, Shenzhen and Hong Kong, visiting their respecitve Irish embassies and receiving courses in mandarin, ICT, and Chinese business culture.
+
+Was selected as one of <a href="https://www.linkedin.com/posts/aimeeconcannon_huawei-huaweitechnologies-seedsforthefuture-activity-6565322127329763328-MowE?utm_source=share&utm_medium=member_desktop">9 Irish students</a> to participate in the The Huawei Seeds for the Future program. This internationally recognised internship scheme seeks to encourage future leaders in business, ICT and foreign relations. 
+
+- As part of the program I spent time in Beijing, Shenzhen and Hong Kong, visiting their respecitve Irish embassies and receiving courses in mandarin, ICT, and Chinese business culture.
 
 `2019`
 Accenture
@@ -103,7 +106,7 @@ Selected to participate in the Accenture Tech Visionaries Experience 2019. Devel
 
 
 ## Interests
-<a href="https://www.linkedin.com/in/aimeeconcannon/">Public speaking</a>. Tech. Cooking. Longform interviews. Early-era Simpsons.  
+<a href="https://www.seanchoiche.com/stayintouch">Public speaking</a>. Tech. Cooking. Longform interviews. Early-era Simpsons.  
 
 
 <!-- ### Footer Last updated: December 2023 -->
